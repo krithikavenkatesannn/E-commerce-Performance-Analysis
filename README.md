@@ -14,8 +14,13 @@ The analysis is organized around four business areas:
 ## Entity Relationship Diagram (ERD)
 The following diagram illustrates the structure of the transactional dataset, including relationships between orders, customers, products, and purchase attributes.
 
+![ERD](https://github.com/krithikavenkatesannn/E-commerce-Performance-Analysis/blob/68c642bc4d94a17c0de5d3a45fd46cf8b485d51d/images/ecommerce_ERD.webp)
+
 
 ## Executive Summary
+
+![ERD](https://github.com/krithikavenkatesannn/E-commerce-Performance-Analysis/blob/68c642bc4d94a17c0de5d3a45fd46cf8b485d51d/images/Overall.png)
+
 1. **Revenue Expansion Across Core Products (2020–2021)**: Sales increased significantly across high-value product lines between 2020 and 2021. The 27-inch 4K gaming monitor shows the strongest growth, reaching peak monthly revenue above $350K, followed by Apple AirPods and MacBook Air laptops.
 2. **Late-2020 Revenue Spike**: Multiple product categories, including MacBook Air laptops and gaming monitors, show synchronized revenue spikes during late-2020, indicating a period of unusually strong demand across premium electronics.
 3. **Revenue Decline in 2022**: Monthly revenue declines across nearly all major product categories in 2022. Gaming monitor revenue drops from peak levels above $300K to nearly half by mid-2022, while laptop and headphone sales follow a similar downward trend.
@@ -24,6 +29,9 @@ The following diagram illustrates the structure of the transactional dataset, in
 
 # Insights Deep Dive
 ## Sales 
+
+![ERD](https://github.com/krithikavenkatesannn/E-commerce-Performance-Analysis/blob/cf3e0ac88092cc55cf309a0e9123162a3c795b05/images/yoy.png)
+
 • The business generated approximately $28M in revenue from over 108K orders between 2019 and 2022, with an overall AOV of about $260.
 
 • 2020 was the strongest growth year, with revenue reaching ~$10M and increasing by more than 160% year-over-year, supported by both higher order volume and increased AOV.
@@ -36,6 +44,8 @@ The following diagram illustrates the structure of the transactional dataset, in
 
  
 ## Seasonality
+![ERD](https://github.com/krithikavenkatesannn/E-commerce-Performance-Analysis/blob/cf3e0ac88092cc55cf309a0e9123162a3c795b05/images/Seasonality.png)
+
 • Sales follow a recurring seasonal pattern across all years, with stronger performance in September, November, and December.
 
 • Q4 consistently contributes a disproportionate share of annual revenue compared to earlier months.
@@ -47,6 +57,8 @@ The following diagram illustrates the structure of the transactional dataset, in
 • Late-2020 shows the strongest monthly revenue performance across the dataset, with multiple months exceeding prior-year levels.
 
 ## Product Performance & Refunds
+
+![ERD](https://github.com/krithikavenkatesannn/E-commerce-Performance-Analysis/blob/cf3e0ac88092cc55cf309a0e9123162a3c795b05/images/Product%20Performance.png)
 
 • Revenue is concentrated in a small number of premium products. The 27-inch 4K gaming monitor contributes about 35% of total revenue, followed by Apple AirPods (≈28%) and MacBook Air laptops (≈22%).
 
@@ -62,6 +74,8 @@ The following diagram illustrates the structure of the transactional dataset, in
 
 
 ## Loyalty Program
+![ERD](https://github.com/krithikavenkatesannn/E-commerce-Performance-Analysis/blob/68c79b3cfd492e761330fa25c553892bb9346292/images/Loyalty%20Program.png)
+
 • Non-loyalty customers contribute the majority of total revenue (≈61%), while loyalty members account for about 39% of overall sales.
 
 • Loyalty program contribution increases significantly after 2020, with members generating over half of total sales in both 2021 and 2022.
@@ -74,6 +88,8 @@ The following diagram illustrates the structure of the transactional dataset, in
 
 
 ## Marketing Channels
+![ERD](https://github.com/krithikavenkatesannn/E-commerce-Performance-Analysis/blob/68c79b3cfd492e761330fa25c553892bb9346292/images/Marketing.png)
+
 • The Direct channel dominates sales, contributing about 83% of total revenue and the majority of orders.
 
 • Email is the second-largest channel, generating roughly 12% of revenue, while affiliate and social media contribute minimal sales.
