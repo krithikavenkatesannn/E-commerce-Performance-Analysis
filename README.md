@@ -52,7 +52,7 @@ The following diagram illustrates the structure of the transactional dataset, in
 
 • Apple AirPods generate the highest order volume, accounting for nearly 45% of all purchases, while gaming monitors contribute a larger share of revenue due to higher pricing.
 
-• Laptop products have the highest average order value, with MacBook Air (~$1,590) and ThinkPad (~$1,100) significantly exceeding other product categories.
+• Laptop products have the highest average order value, with MacBook Air ($1,590) and ThinkPad ($1,100) significantly exceeding other product categories.
 
 • Accessories such as charging cables and webcams generate high order counts but contribute relatively little to overall revenue due to low pricing.
 
