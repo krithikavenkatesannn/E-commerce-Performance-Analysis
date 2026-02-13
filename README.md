@@ -4,7 +4,7 @@
 
 NovaCart Electronics is an online retailer specializing in consumer electronics and accessories across global markets. This analysis explores transactional data from **2019–2022 (100K+ orders)** to understand how sales performance, product mix, logistics, loyalty initiatives, and refunds evolved over time.
 
-The analysis is organized around five business areas:
+The analysis is organized around four business areas:
 
 1. **Sales Trends**
 2. **Product Performance**
