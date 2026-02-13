@@ -4,27 +4,16 @@
 
 NovaCart Electronics is an online retailer specializing in consumer electronics and accessories across global markets. This analysis explores transactional data from **2019–2022 (100K+ orders)** to understand how sales performance, product mix, logistics, loyalty initiatives, and refunds evolved over time.
 
-Rather than focusing only on reporting KPIs, this analysis aims to **identify key revenue drivers, evaluate product-level performance, detect operational inefficiencies, and assess how customer programs influence purchasing behavior**.
-
 The analysis is organized around five business areas:
 
 1. **Sales Trends**: Understanding how revenue, AOV, and order volume changed over time using month-over-month (MoM) and year-over-year (YoY) growth patterns.
 2. **Product Performance**: Evaluating which product lines drive revenue versus order volume, and identifying underperforming products.
-3. **Operational Effectiveness**: Assessing shipping and delivery timelines across regions and product categories.
-4. **Marketing & Loyalty Program**: Measuring how loyalty program participation relates to revenue contribution and customer value.
-5. **Refund Analysis**: Examining refund rates, high-refund products, and regional refund concentration.
+3. **Marketing & Loyalty Program**: Measuring how loyalty program participation relates to revenue contribution and customer value.
+4. **Refund Analysis**: Examining refund rates, high-refund products, and regional refund concentration.
 
 ## Entity Relationship Diagram (ERD)
 The following diagram illustrates the structure of the transactional dataset, including relationships between orders, customers, products, and purchase attributes.
 
-
-1. **Revenue Expansion Across Core Products (2020–2021)**: Sales increased significantly across high-value product lines between 2020 and 2021. The 27-inch 4K gaming monitor shows the strongest growth, reaching peak monthly revenue above $350K, followed by Apple AirPods and MacBook Air laptops.
-
-2. **Late-2020 Revenue Spike**: Multiple product categories, including MacBook Air laptops and gaming monitors, show synchronized revenue spikes during late-2020, indicating a period of unusually strong demand across premium electronics.
-   
-3. **Revenue Decline in 2022**: Monthly revenue declines across nearly all major product categories in 2022. Gaming monitor revenue drops from peak levels above $300K to nearly half by mid-2022, while laptop and headphone sales follow a similar downward trend.
-   
-4. **Stable Accessory Sales**: Lower-priced accessories such as Samsung charging cable packs and webcams maintain consistently low revenue levels throughout the period, generally remaining below $20K per month with minimal volatility.
 
 # Insights Deep Dive
 ## Sales 
