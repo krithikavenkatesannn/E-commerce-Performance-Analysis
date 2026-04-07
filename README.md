@@ -22,8 +22,9 @@ The diagram below illustrates the structure of the transactional dataset, includ
 
 ## 📊 Executive Summary
 
-![ERD](https://github.com/krithikavenkatesannn/E-commerce-Performance-Analysis/blob/68c642bc4d94a17c0de5d3a45fd46cf8b485d51d/images/Overall.png)
-
+<p align="center">
+  <img src="https://github.com/krithikavenkatesannn/E-commerce-Performance-Analysis/blob/411ac259cf207b9a86976f0dd6c3cf9a67147760/images/z-overall.png" width="1000"/>
+</p>
 Between 2019 and 2022, NovaCart generated **$28M in revenue** from **108K orders** with an average order value of **$260**.
 
 
@@ -45,8 +46,9 @@ Between 2019 and 2022, NovaCart generated **$28M in revenue** from **108K orders
 
 
 ## 🔍 Deep Dive: Sales Performance
-![ERD](https://github.com/krithikavenkatesannn/E-commerce-Performance-Analysis/blob/cf3e0ac88092cc55cf309a0e9123162a3c795b05/images/yoy.png)
-
+<p align="center">
+  <img src="https://github.com/krithikavenkatesannn/E-commerce-Performance-Analysis/blob/411ac259cf207b9a86976f0dd6c3cf9a67147760/images/z--yoy.png" width="800"/>
+</p>
 
 The business generated **$28M** in revenue from over **108K orders** between 2019 and 2022, with an overall AOV of **$260**.
 
@@ -61,8 +63,9 @@ The business generated **$28M** in revenue from over **108K orders** between 201
 
 
 ## 🔍 Deep Dive: Product Performance & Refunds
-![ERD](https://github.com/krithikavenkatesannn/E-commerce-Performance-Analysis/blob/cf3e0ac88092cc55cf309a0e9123162a3c795b05/images/Product%20Performance.png)
-
+<p align="center">
+  <img src="https://github.com/krithikavenkatesannn/E-commerce-Performance-Analysis/blob/1a0ccaca4c04921a49b69d5194fca314084a1000/images/z-product%20%26%20refund%20(2).png" width="1100"/>
+</p>
 
 * **Revenue concentration is extreme.** The 27-inch 4K gaming monitor contributes **35%** of total revenue. Apple AirPods follow at **28%**, and MacBook Air laptops at **22%**. Together, these three products drive **85%** of all revenue.
 
@@ -78,8 +81,9 @@ The business generated **$28M** in revenue from over **108K orders** between 201
 
 
 ## 🔍 Deep Dive: Loyalty Program
-![ERD](https://github.com/krithikavenkatesannn/E-commerce-Performance-Analysis/blob/68c79b3cfd492e761330fa25c553892bb9346292/images/Loyalty%20Program.png)
-
+<p align="center">
+  <img src="https://github.com/krithikavenkatesannn/E-commerce-Performance-Analysis/blob/1a0ccaca4c04921a49b69d5194fca314084a1000/images/z-loyalty%20(2).png" width="800"/>
+</p>
 
 * **Loyalty adoption grew significantly.** In 2019, loyalty members contributed only **11%** of revenue. By 2022, that share had grown to **55%**. Members now drive more than half of all sales.
 
@@ -93,8 +97,9 @@ The business generated **$28M** in revenue from over **108K orders** between 201
 
 
 ## 🔍 Deep Dive: Marketing Channels
-![ERD](https://github.com/krithikavenkatesannn/E-commerce-Performance-Analysis/blob/68c79b3cfd492e761330fa25c553892bb9346292/images/Marketing.png)
-
+<p align="center">
+  <img src="https://github.com/krithikavenkatesannn/E-commerce-Performance-Analysis/blob/1a0ccaca4c04921a49b69d5194fca314084a1000/images/z-traffic..png" width="800"/>
+</p>
 
 * **Direct channel dominates.** Direct contributes **83%** of total revenue and the majority of orders. Email is the second-largest channel, generating roughly **12%** of revenue. Affiliate and social media contribute minimal sales.
 
