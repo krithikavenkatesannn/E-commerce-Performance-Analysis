@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://github.com/krithikavenkatesannn/E-commerce-Performance-Analysis/blob/06a416323df88e82abd1f532c1393b84b71106ab/images/z-mom.png" width="800"/>
 </p>
+
 * Between 2019 and 2022, NovaCart generated **$28M in revenue** from **108K orders**, with an average order value of **$260**.
 
 **Key insights**
