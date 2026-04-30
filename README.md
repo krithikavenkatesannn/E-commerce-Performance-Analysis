@@ -1,4 +1,4 @@
-# 📊 E-commerce Performance Analysis: NovaCart Electronics (2019–2022)
+# 📊 E-commerce Performance Analysis: NovaCart Electronics 
 
 ## 📌 Overview
 * NovaCart Electronics is an online retailer specializing in consumer electronics across global markets. This analysis examines transactional data from **2019–2022** across **108K+ orders** to understand how revenue drivers, product mix, loyalty adoption, and refund behavior evolved over time.
